@@ -92,4 +92,4 @@ function drawGame (){
 
 
 
-let game = setInterval(drawGame, 100);
+let game = setInterval(drawGame, 120);
